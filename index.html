@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>英析练习台</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar" aria-label="英析练习台">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">
+            <span>A</span>
+            <span>文</span>
+          </div>
+          <div>
+            <h1>英析练习台</h1>
+            <p>拆句、造句、收藏、朗读、阅读推荐</p>
+          </div>
+        </div>
+        <div class="top-actions">
+          <label class="level-control" for="levelSelect">
+            <span>水平</span>
+            <select id="levelSelect">
+              <option value="A1">A1 入门</option>
+              <option value="A2">A2 基础</option>
+              <option value="B1" selected>B1 进阶</option>
+              <option value="B2">B2 中高级</option>
+              <option value="C1">C1 高级</option>
+            </select>
+          </label>
+          <button class="icon-button" id="speakAllBtn" type="button" title="朗读全文" aria-label="朗读全文">
+            <span aria-hidden="true">▶</span>
+          </button>
+          <button class="icon-button" id="stopSpeakBtn" type="button" title="停止朗读" aria-label="停止朗读">
+            <span aria-hidden="true">■</span>
+          </button>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <section class="input-panel" aria-labelledby="inputTitle">
+          <div class="panel-head">
+            <div>
+              <h2 id="inputTitle">英语输入</h2>
+              <p id="analysisState">粘贴英文后会自动分析</p>
+            </div>
+            <button class="primary-button" id="sampleBtn" type="button">换一段</button>
+          </div>
+          <textarea
+            id="englishInput"
+            spellcheck="false"
+            placeholder="Paste or type English here..."
+          ></textarea>
+          <div class="input-footer">
+            <button class="primary-button" id="analyzeBtn" type="button">分析</button>
+            <button class="ghost-button" id="clearBtn" type="button">清空</button>
+            <span id="textStats" aria-live="polite">0 词</span>
+          </div>
+        </section>
+
+        <section class="analysis-panel" aria-labelledby="analysisTitle">
+          <div class="panel-head">
+            <div>
+              <h2 id="analysisTitle">语法拆解</h2>
+              <p id="sentenceCount">等待输入</p>
+            </div>
+            <button class="ghost-button" id="favoriteGrammarBtn" type="button">收藏语法</button>
+          </div>
+          <div class="sentence-tabs" id="sentenceTabs" aria-label="句子列表"></div>
+          <div class="syntax-view" id="syntaxView"></div>
+        </section>
+
+        <section class="practice-panel" aria-labelledby="practiceTitle">
+          <div class="panel-head">
+            <div>
+              <h2 id="practiceTitle">同框架造句</h2>
+              <p id="practiceFrame">根据当前句型出题</p>
+            </div>
+            <button class="ghost-button" id="newPracticeBtn" type="button">刷新题目</button>
+          </div>
+          <div class="practice-list" id="practiceList"></div>
+        </section>
+
+        <section class="side-panel" aria-label="收藏与阅读">
+          <div class="favorites-box">
+            <div class="panel-head compact-head">
+              <div>
+                <h2>收藏</h2>
+                <p id="favoriteStats">0 个单词，0 条语法</p>
+              </div>
+              <button class="ghost-button" id="clearFavoritesBtn" type="button">整理</button>
+            </div>
+            <div class="segmented" role="tablist" aria-label="收藏类型">
+              <button class="segment active" data-fav-tab="words" type="button">单词</button>
+              <button class="segment" data-fav-tab="grammar" type="button">语法</button>
+            </div>
+            <div class="favorite-list" id="favoriteList"></div>
+          </div>
+
+          <div class="reading-box">
+            <div class="panel-head compact-head">
+              <div>
+                <h2>阅读推荐</h2>
+                <p id="readingHint">匹配当前水平</p>
+              </div>
+              <button class="ghost-button" id="refreshReadingBtn" type="button">换一批</button>
+            </div>
+            <div class="reading-list" id="readingList"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div class="word-popover" id="wordPopover" role="dialog" aria-hidden="true"></div>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
