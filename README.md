@@ -9,10 +9,16 @@
 - 鼠标悬停单词显示中文和日语释义
 - 收藏单词和语法点
 - 朗读单词或全文
-- 按 A1-C1 水平推荐合适或略有挑战的英语阅读
+- 从 BBC News Top Stories 生成每日更新的英语阅读推荐
 
 ## 使用方式
 
 直接打开 `index.html`。
 
 如果发布到 GitHub Pages，进入仓库的 `Settings -> Pages`，选择 `main` 分支和 `/root` 目录即可。
+
+## BBC 新闻更新
+
+新闻数据来自 BBC News Top Stories RSS：`https://feeds.bbci.co.uk/news/rss.xml`。
+
+GitHub Actions 会每天 06:00（日本时间）运行一次 `scripts/update-bbc-news.mjs`，更新 `data/bbc-news.json`。网页只读取这个每日生成的数据文件，不再内置预先写好的阅读文章。

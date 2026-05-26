@@ -1,0 +1,37 @@
+name: Update BBC news data
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch BBC News Top Stories
+        run: node scripts/update-bbc-news.mjs
+
+      - name: Commit updated news data
+        run: |
+          if git diff --quiet -- data/bbc-news.json; then
+            echo "BBC news data is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bbc-news.json
+          git commit -m "Update BBC news data"
+          git push

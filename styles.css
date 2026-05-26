@@ -596,9 +596,21 @@ textarea:focus {
 }
 
 .favorite-item strong,
-.reading-item strong {
+.reading-item strong,
+.reading-title {
   display: block;
   overflow-wrap: anywhere;
+}
+
+.reading-title {
+  color: var(--ink);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.reading-title:hover {
+  color: var(--blue);
+  text-decoration: underline;
 }
 
 .favorite-item span,

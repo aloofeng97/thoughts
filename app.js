@@ -32,11 +32,15 @@ const nodes = {
 };
 
 const STORAGE_KEY = "english_analyzer_favorites_v1";
+const NEWS_DATA_URL = "data/bbc-news.json";
 let currentAnalysis = [];
 let activeSentenceIndex = 0;
 let activePractice = [];
 let activeFavTab = "words";
 let readingOffset = 0;
+let bbcNewsItems = [];
+let bbcNewsMeta = null;
+let bbcNewsLoading = true;
 let popoverWord = null;
 let popoverTimer = null;
 let toastTimer = null;
@@ -426,69 +430,6 @@ const irregularPastParticiples = new Set([
   "thought",
   "written",
 ]);
-
-const readings = [
-  {
-    level: "A1",
-    title: "A New Morning",
-    text: "Lina opens the window. The street is quiet, and the sky is bright. She makes tea and writes three new English words in her notebook.",
-    tags: ["现在时", "日常词汇"],
-  },
-  {
-    level: "A1",
-    title: "My Small Desk",
-    text: "There is a lamp on my desk. I put my book next to it. Every night, I read one short page before I sleep.",
-    tags: ["There be", "地点介词"],
-  },
-  {
-    level: "A2",
-    title: "The Helpful Neighbor",
-    text: "When Tom moved into the building, he did not know anyone. His neighbor showed him the nearest supermarket and invited him for dinner.",
-    tags: ["过去时", "时间从句"],
-  },
-  {
-    level: "A2",
-    title: "A Better Plan",
-    text: "Maya wanted to exercise more, but she was always tired after work. She decided to walk for ten minutes every morning instead.",
-    tags: ["转折", "不定式"],
-  },
-  {
-    level: "B1",
-    title: "Learning in Small Steps",
-    text: "People who practice a little every day often improve faster than people who wait for a perfect plan. Small steps create visible progress.",
-    tags: ["定语从句", "比较级"],
-  },
-  {
-    level: "B1",
-    title: "A Message from Home",
-    text: "Although the train was late, Ken arrived with a calm smile because he had used the extra time to call his parents.",
-    tags: ["让步从句", "过去完成时"],
-  },
-  {
-    level: "B2",
-    title: "The Value of Feedback",
-    text: "Feedback is most useful when it points to a specific action. Instead of saying that an essay is weak, a good teacher shows where the argument loses focus.",
-    tags: ["名词从句", "抽象表达"],
-  },
-  {
-    level: "B2",
-    title: "A Changing Workplace",
-    text: "As remote work becomes more common, teams need clearer writing habits so that decisions are not lost in long message threads.",
-    tags: ["原因结果", "被动语态"],
-  },
-  {
-    level: "C1",
-    title: "Attention and Depth",
-    text: "In an age of constant interruption, sustained attention has become a rare advantage. The people who protect it are often able to think with unusual depth.",
-    tags: ["抽象名词", "定语从句"],
-  },
-  {
-    level: "C1",
-    title: "Polite Disagreement",
-    text: "A skillful speaker can disagree without closing the conversation. By acknowledging the other person's concern, they make space for a more precise argument.",
-    tags: ["分词结构", "语气控制"],
-  },
-];
 
 function loadFavorites() {
   try {
@@ -901,6 +842,25 @@ function analyzeText() {
   renderReadings();
 }
 
+async function loadBbcNews() {
+  bbcNewsLoading = true;
+  renderReadings();
+  try {
+    const response = await fetch(`${NEWS_DATA_URL}?v=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    bbcNewsItems = Array.isArray(data.items) ? data.items : [];
+    bbcNewsMeta = data.meta ?? null;
+  } catch {
+    bbcNewsItems = [];
+    bbcNewsMeta = null;
+  } finally {
+    bbcNewsLoading = false;
+    readingOffset = 0;
+    renderReadings();
+  }
+}
+
 function renderEmpty() {
   nodes.count.textContent = "等待输入";
   nodes.tabs.innerHTML = "";
@@ -1169,26 +1129,41 @@ function addGrammarFavorite() {
 }
 
 function renderReadings() {
+  if (bbcNewsLoading) {
+    nodes.readingHint.textContent = "正在读取 BBC 头条";
+    nodes.readingList.innerHTML = `<div class="empty-state"><div><strong>正在加载 BBC News。</strong><br>新闻由 GitHub Actions 每日更新。</div></div>`;
+    return;
+  }
+
+  if (!bbcNewsItems.length) {
+    nodes.readingHint.textContent = "暂时无法读取新闻";
+    nodes.readingList.innerHTML = `<div class="empty-state"><div><strong>没有可显示的 BBC 头条。</strong><br>请稍后刷新，或等待下一次每日更新。</div></div>`;
+    return;
+  }
+
   const level = nodes.level.value;
   const levelIndex = levels.indexOf(level);
-  const pool = readings.filter((item) => {
+  const pool = bbcNewsItems.filter((item) => {
     const diff = levels.indexOf(item.level) - levelIndex;
     return diff >= 0 && diff <= 1;
   });
-  const fallback = readings.filter((item) => Math.abs(levels.indexOf(item.level) - levelIndex) <= 1);
-  const chosen = (pool.length ? pool : fallback)
+  const fallback = bbcNewsItems.filter((item) => Math.abs(levels.indexOf(item.level) - levelIndex) <= 1);
+  const source = pool.length ? pool : fallback.length ? fallback : bbcNewsItems;
+  const rotated = source
     .slice(readingOffset)
-    .concat((pool.length ? pool : fallback).slice(0, readingOffset))
+    .concat(source.slice(0, readingOffset))
     .slice(0, 3);
-  nodes.readingHint.textContent = `${level} 到 ${levels[Math.min(levelIndex + 1, levels.length - 1)]} 难度`;
-  nodes.readingList.innerHTML = chosen
+  const updated = bbcNewsMeta?.updatedAt ? new Date(bbcNewsMeta.updatedAt).toLocaleString("zh-CN", { dateStyle: "medium", timeStyle: "short" }) : "每日";
+  nodes.readingHint.textContent = `BBC Top Stories · 更新于 ${updated}`;
+  nodes.readingList.innerHTML = rotated
     .map(
       (item) => `
         <article class="reading-item">
-          <strong>${escapeHtml(item.title)}</strong>
-          <span>${escapeHtml(item.text)}</span>
+          <a class="reading-title" href="${escapeAttr(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
+          <span>${escapeHtml(item.summary)}</span>
           <div class="reading-meta">
             <b>${escapeHtml(item.level)}</b>
+            <b>BBC News</b>
             ${item.tags.map((tag) => `<b>${escapeHtml(tag)}</b>`).join("")}
           </div>
         </article>
@@ -1381,7 +1356,7 @@ nodes.clearFavorites.addEventListener("click", () => {
 });
 
 nodes.refreshReading.addEventListener("click", () => {
-  readingOffset = (readingOffset + 1) % readings.length;
+  readingOffset = bbcNewsItems.length ? (readingOffset + 1) % bbcNewsItems.length : 0;
   renderReadings();
 });
 
@@ -1399,5 +1374,6 @@ nodes.stopSpeak.addEventListener("click", () => {
 renderEmpty();
 renderFavorites();
 renderReadings();
+loadBbcNews();
 nodes.input.value = samples[1];
 analyzeText();
