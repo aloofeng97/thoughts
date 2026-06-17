@@ -2,65 +2,187 @@
   "meta": {
     "source": "BBC News Top Stories",
     "sourceUrl": "https://feeds.bbci.co.uk/news/rss.xml",
-    "updatedAt": "2026-06-16T16:02:27.520Z",
+    "updatedAt": "2026-06-17T12:38:18.222Z",
     "itemCount": 18
   },
   "items": [
     {
-      "title": "UK forces face operational cuts without more cash, defence chief warns",
-      "summary": "It comes as ex-defence secretary John Healey says the UK's enemies \"do not follow timetables set by the Treasury\".",
-      "link": "https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 14:04:31 GMT",
+      "title": "PM warns Burnham against immediate leadership challenge if he wins by-election",
+      "summary": "Keir Starmer says Labour should focus on a subsequent Manchester mayoral race if Andy Burnham wins in Makerfield.",
+      "link": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 09:17:37 GMT",
+      "level": "C1",
+      "tags": [
+        "BBC Top Stories",
+        "政治"
+      ]
+    },
+    {
+      "title": "High-street designs and skateboard tracksuits - what England's off-pitch looks say about the team",
+      "summary": "What experts make of the men's team's official off-duty fashion as they prepare for their first World Cup match.",
+      "link": "https://www.bbc.com/news/articles/c9v2e8llnkwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 05:52:03 GMT",
+      "level": "B2",
+      "tags": [
+        "BBC Top Stories",
+        "国际"
+      ]
+    },
+    {
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+      "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 10:01:42 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories"
+      ]
+    },
+    {
+      "title": "Jeremy Clarkson reveals prostate cancer diagnosis on farming show",
+      "summary": "The former Top Gear presenter did not clarify what type of cancer he had been diagnosed with.",
+      "link": "https://www.bbc.com/news/articles/cqj14q700rko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 07:36:37 GMT",
+      "level": "A2",
+      "tags": [
+        "BBC Top Stories"
+      ]
+    },
+    {
+      "title": "British couple describe having warning shots fired near them by Russian warship",
+      "summary": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
+      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 08:38:24 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories"
+      ]
+    },
+    {
+      "title": "Abuse hurled at judge as first group of rioters sentenced for Ely disorder",
+      "summary": "The deaths of teenagers Kyrees Sullivan and Harvey Evans in 2023 sparked hours of violence and vandalism.",
+      "link": "https://www.bbc.com/news/articles/clye850yjvdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 12:12:20 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories",
+        "法律"
+      ]
+    },
+    {
+      "title": "Slowest food price rises in nearly a year and a half help keep UK inflation at 2.8%",
+      "summary": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
+      "link": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 09:52:43 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories",
+        "经济"
+      ]
+    },
+    {
+      "title": "TV personality Ashley Cain accused of using sexist and misogynistic language",
+      "summary": "The former footballer is known for presenting BBC Three's Ashley Cain: Into the Danger Zone.",
+      "link": "https://www.bbc.com/news/articles/cvg59v3ypx9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 11:55:14 GMT",
       "level": "B2",
       "tags": [
         "BBC Top Stories"
       ]
     },
     {
-      "title": "Three reasons ships are not going through the Strait of Hormuz yet",
-      "summary": "Experts say that there are significant obstacles preventing traffic from returning to the levels seen before the conflict began – security, mines and tolls.",
-      "link": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 14:11:30 GMT",
+      "title": "Norway's crown princess undergoes successful lung transplant, palace says",
+      "summary": "Crown Princess Mette-Marit, who suffered from pulmonary fibrosis, will now spend several weeks recovering in hospital.",
+      "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 10:15:08 GMT",
       "level": "B2",
       "tags": [
-        "BBC Top Stories"
+        "BBC Top Stories",
+        "健康"
       ]
     },
     {
-      "title": "What UK social media ban means for gaming and YouTube",
-      "summary": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
-      "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 15:28:15 GMT",
+      "title": "Snap unveils £1,995 smart glasses after previous flops",
+      "summary": "The augmented reality glasses from Snapchat's parent company are expected to ship in autumn.",
+      "link": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 11:37:01 GMT",
       "level": "B1",
       "tags": [
-        "BBC Top Stories"
+        "BBC Top Stories",
+        "经济"
       ]
     },
     {
-      "title": "Woman left traumatised by swinging says website 'facilitated abuse'",
-      "summary": "She wants to warn others after her husband pressured her into sex she did not want, she says.",
-      "link": "https://www.bbc.com/news/articles/c87q7g48y4po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 05:00:16 GMT",
+      "title": "Can Bellingham become England's superstar once more?",
+      "summary": "After tough love from England head coach Thomas Tuchel, Jude Bellingham's World Cup build-up points to a special talent who can be a key figure in their quest to win the World Cup.",
+      "link": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 10:06:19 GMT",
+      "level": "B2",
+      "tags": [
+        "BBC Top Stories",
+        "国际"
+      ]
+    },
+    {
+      "title": "Find your local World Cup hero with our postcode lookup",
+      "summary": "Which World Cup stars have roots near you? Find out with our interactive lookup tool",
+      "link": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 10 Jun 2026 23:13:43 GMT",
       "level": "B1",
       "tags": [
-        "BBC Top Stories"
+        "BBC Top Stories",
+        "国际"
       ]
     },
     {
-      "title": "Prince George to attend Eton College from September",
-      "summary": "He will follow in the footsteps of his father, the Prince of Wales, who also attended the private school.",
-      "link": "https://www.bbc.com/news/articles/clyx4jd9kkdo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 12:14:50 GMT",
+      "title": "How Modric and Croatia continue to defy the odds",
+      "summary": "The child displaced by war who won six Champions League titles and a Ballon d'Or - how Luka Modric and England's opponents Croatia continue to defy the odds.",
+      "link": "https://www.bbc.com/sport/football/articles/cjdgnk5vz1mo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 11:04:17 GMT",
       "level": "B1",
       "tags": [
-        "BBC Top Stories"
+        "BBC Top Stories",
+        "国际"
       ]
     },
     {
-      "title": "Thames Water closer to nationalisation after government objects to rescue deal",
-      "summary": "The environment secretary says the deal does not do enough for consumers or the environment.",
-      "link": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 12:25:59 GMT",
+      "title": "Extraordinary Messi makes more history in masterclass for the ages",
+      "summary": "Kylian Mbappe and Erling Haaland both enjoyed a fine start to the World Cup - but on a day packed with superstars, Lionel Messi still took top billing.",
+      "link": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 07:17:39 GMT",
+      "level": "B2",
+      "tags": [
+        "BBC Top Stories",
+        "国际"
+      ]
+    },
+    {
+      "title": "How sweltering Scotland can handle World Cup heat",
+      "summary": "With Scotland's World Cup games expected to take place in temperatures of around 30C, Steve Clarke and his team will have to battle the conditions as well as Morocco and Brazil.",
+      "link": "https://www.bbc.com/sport/football/articles/cx26geg0elgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 11:16:20 GMT",
+      "level": "C1",
+      "tags": [
+        "BBC Top Stories",
+        "国际"
+      ]
+    },
+    {
+      "title": "'We believe our daughter was abused at Muckamore hospital for 17 years - now we want answers'",
+      "summary": "Laura, 41, was admitted to Muckamore Abbey Hospital when she was 16 and lived there for more than 17 years.",
+      "link": "https://www.bbc.com/news/articles/cvglw44v0lgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 16 Jun 2026 23:07:12 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories",
+        "健康"
+      ]
+    },
+    {
+      "title": "Social media ban could shut the door on future talent, say teen influencers",
+      "summary": "Prime Minister Keir Starmer says the ban will give children more time, security and freedom to grow up. But how do under-16s feel?",
+      "link": "https://www.bbc.com/news/articles/c4gyp16wp6jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 16 Jun 2026 23:23:01 GMT",
       "level": "B2",
       "tags": [
         "BBC Top Stories",
@@ -68,131 +190,13 @@
       ]
     },
     {
-      "title": "Musk's SpaceX buys AI coding start-up for $60bn days after IPO",
-      "summary": "Elon Musk's firm agrees to buy Cursor, while a surge SpaceX's shares sees it overtake Amazon to become the world's fifth most valuable company.",
-      "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 14:45:12 GMT",
-      "level": "B1",
-      "tags": [
-        "BBC Top Stories",
-        "国际",
-        "经济",
-        "科技"
-      ]
-    },
-    {
-      "title": "West End theatre to be named after Dame Judi Dench",
-      "summary": "The Shaftesbury Theatre is to be renamed to honour Dame Judi's contribution to the performing arts.",
-      "link": "https://www.bbc.com/news/articles/c4gy4d0d7qjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 14:47:16 GMT",
-      "level": "B2",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+      "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 17 Jun 2026 09:13:34 GMT",
+      "level": "C1",
       "tags": [
         "BBC Top Stories"
-      ]
-    },
-    {
-      "title": "Row over potential cull of Dartmoor hill ponies",
-      "summary": "Campaigners say requirements to cut livestock grazing could lead to a 90% cull of its hill ponies.",
-      "link": "https://www.bbc.com/news/articles/cgjxlvp58zgo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 15:52:22 GMT",
-      "level": "B1",
-      "tags": [
-        "BBC Top Stories"
-      ]
-    },
-    {
-      "title": "'Daylight robbery but worth it' - what fans are spending",
-      "summary": "Fans in the US, Canada and Mexico are spending big on tickets, transport and accommodation - is it worth it?",
-      "link": "https://www.bbc.com/news/articles/cy73xe2006po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 10:08:20 GMT",
-      "level": "B1",
-      "tags": [
-        "BBC Top Stories"
-      ]
-    },
-    {
-      "title": "Iran 'most oppressed' team in tournament, head coach says",
-      "summary": "Head coach Amir Ghalenoei says his Iran side are the \"most oppressed in the World Cup\" after having last-minute travel restrictions imposed on them.",
-      "link": "https://www.bbc.com/sport/football/articles/ckg48wvv0v2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 07:16:25 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories",
-        "国际"
-      ]
-    },
-    {
-      "title": "How Yes Sir, I Can Boogie became Scotland's unofficial national anthem",
-      "summary": "From stag-do drag to Fenway Park, how did a 1970s disco hit become the soundtrack of the Tartan Army?",
-      "link": "https://www.bbc.com/sport/football/articles/cn4d8kwqjjeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 11:19:30 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories"
-      ]
-    },
-    {
-      "title": "'Not a model' - Uruguay coach Bielsa refuses to engage with photoshoot",
-      "summary": "Uruguay and former Leeds coach Marcelo Bielsa defends his stony-faced appearance in the official World Cup photoshoot.",
-      "link": "https://www.bbc.com/sport/football/articles/cd6e58eq72eo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 07:02:49 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories",
-        "国际"
-      ]
-    },
-    {
-      "title": "How an ovary syndrome led to Bake Off star's fame",
-      "summary": "Now a successful TV presenter, Briony May Williams said she started stress-baking when she became ill.",
-      "link": "https://www.bbc.com/news/articles/cwy2yv91vw7o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 05:17:24 GMT",
-      "level": "B1",
-      "tags": [
-        "BBC Top Stories"
-      ]
-    },
-    {
-      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
-      "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 15:31:24 GMT",
-      "level": "B1",
-      "tags": [
-        "BBC Top Stories",
-        "国际"
-      ]
-    },
-    {
-      "title": "What one country's experiment says about attempts to boost birth rates",
-      "summary": "Why did Hungary’s pronatalist approach deliver an early rise in births only then to fall back? And what lessons does it offer to other countries desperate to lift fertility?",
-      "link": "https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 15 Jun 2026 23:56:47 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories",
-        "国际"
-      ]
-    },
-    {
-      "title": "When will social media ban start, and which apps will be affected?",
-      "summary": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027.",
-      "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Jun 2026 10:58:25 GMT",
-      "level": "B1",
-      "tags": [
-        "BBC Top Stories"
-      ]
-    },
-    {
-      "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
-      "summary": "There are glimpses of happiness in the Democratic Republic of Congo's fight against the virus that has killed more than 170.",
-      "link": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 15 Jun 2026 23:26:39 GMT",
-      "level": "B1",
-      "tags": [
-        "BBC Top Stories",
-        "健康"
       ]
     }
   ]
