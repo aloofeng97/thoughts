@@ -570,11 +570,19 @@ textarea:focus {
   color: #fff;
 }
 
-.favorite-list,
-.reading-list {
+.favorite-list {
   display: grid;
   gap: 8px;
   max-height: 338px;
+  overflow: auto;
+  padding: 0 14px 14px;
+  scrollbar-width: thin;
+}
+
+.reading-list {
+  display: grid;
+  gap: 10px;
+  max-height: 760px;
   overflow: auto;
   padding: 0 14px 14px;
   scrollbar-width: thin;
@@ -620,6 +628,117 @@ textarea:focus {
   color: var(--muted);
   font-size: 0.84rem;
   line-height: 1.45;
+}
+
+.source-summary {
+  padding: 8px 0;
+}
+
+.learning-pack {
+  display: grid;
+  gap: 10px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.learning-section {
+  display: grid;
+  gap: 8px;
+}
+
+.learning-section h3 {
+  color: var(--green);
+  font-size: 0.86rem;
+}
+
+.learning-section p {
+  color: var(--ink);
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.learning-vocab-grid,
+.learning-point-grid {
+  display: grid;
+  gap: 8px;
+}
+
+.learning-vocab,
+.learning-point {
+  padding: 9px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface-2);
+}
+
+.learning-vocab strong,
+.learning-point strong {
+  color: var(--ink);
+  font-size: 0.88rem;
+}
+
+.learning-vocab span,
+.learning-vocab p,
+.learning-vocab em,
+.learning-point p,
+.learning-point em {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-style: normal;
+  line-height: 1.45;
+}
+
+.learning-point code {
+  display: inline-block;
+  margin-top: 5px;
+  padding: 3px 6px;
+  border-radius: 6px;
+  background: var(--blue-2);
+  color: #24486f;
+  font-size: 0.78rem;
+  white-space: normal;
+}
+
+.learning-list {
+  display: grid;
+  gap: 7px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.learning-list li {
+  display: grid;
+  grid-template-columns: 24px minmax(0, 1fr);
+  gap: 8px;
+  align-items: start;
+  color: var(--ink);
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+.learning-list li span {
+  display: grid;
+  place-items: center;
+  width: 22px;
+  height: 22px;
+  margin: 0;
+  border-radius: 999px;
+  background: var(--amber-2);
+  color: var(--amber);
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.shadowing-list li {
+  color: var(--blue);
+}
+
+.learning-muted {
+  color: var(--muted);
 }
 
 .mini-actions {

@@ -1128,6 +1128,108 @@ function addGrammarFavorite() {
   showToast("已收藏语法");
 }
 
+function getLearningPack(item) {
+  if (item.learning) return item.learning;
+  return {
+    reading: [
+      "This study version expands the headline and short source summary into a longer learning task. Read for the main actor, action, result, and context.",
+      "After you understand the short summary, open the BBC link and check the details. Then rewrite your own summary without copying the original wording.",
+    ],
+    vocabulary: [],
+    grammar: [
+      {
+        name: "新闻标题压缩",
+        pattern: "headline + summary + follow-up question",
+        explanation: "先把标题扩写成完整句，再用摘要补充背景。",
+        task: "用 The report says that ... 写一句完整句。",
+      },
+    ],
+    comprehension: [
+      "What happened?",
+      "Who was affected?",
+      "What extra detail do you need from the full article?",
+    ],
+    drills: [
+      "Write a 35-50 word summary in your own words.",
+      "Write one sentence with because.",
+    ],
+    shadowing: ["I read the headline first, then I use the summary to build context."],
+  };
+}
+
+function renderLearningList(items, className = "") {
+  return items
+    .map((item, index) => `<li class="${className}"><span>${index + 1}</span>${escapeHtml(item)}</li>`)
+    .join("");
+}
+
+function renderLearningPack(item) {
+  const learning = getLearningPack(item);
+  const reading = Array.isArray(learning.reading) ? learning.reading : [];
+  const vocabulary = Array.isArray(learning.vocabulary) ? learning.vocabulary : [];
+  const grammar = Array.isArray(learning.grammar) ? learning.grammar : [];
+  const comprehension = Array.isArray(learning.comprehension) ? learning.comprehension : [];
+  const drills = Array.isArray(learning.drills) ? learning.drills : [];
+  const shadowing = Array.isArray(learning.shadowing) ? learning.shadowing : [];
+
+  const vocabHtml = vocabulary.length
+    ? vocabulary
+        .map(
+          (word) => `
+            <div class="learning-vocab">
+              <strong>${escapeHtml(word.word)}</strong>
+              <span>中文：${escapeHtml(word.zh)} · 日本語：${escapeHtml(word.ja)}</span>
+              <p>${escapeHtml(word.note)}</p>
+              <em>${escapeHtml(word.example)}</em>
+            </div>
+          `,
+        )
+        .join("")
+    : `<p class="learning-muted">打开 BBC 原文后，把你遇到的新词补进自己的收藏表。</p>`;
+
+  const grammarHtml = grammar
+    .map(
+      (point) => `
+        <div class="learning-point">
+          <strong>${escapeHtml(point.name)}</strong>
+          <code>${escapeHtml(point.pattern)}</code>
+          <p>${escapeHtml(point.explanation)}</p>
+          <em>${escapeHtml(point.task)}</em>
+        </div>
+      `,
+    )
+    .join("");
+
+  return `
+    <div class="learning-pack">
+      <div class="learning-section">
+        <h3>学习版长读</h3>
+        ${reading.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("")}
+      </div>
+      <div class="learning-section">
+        <h3>重点词汇</h3>
+        <div class="learning-vocab-grid">${vocabHtml}</div>
+      </div>
+      <div class="learning-section">
+        <h3>语法观察</h3>
+        <div class="learning-point-grid">${grammarHtml}</div>
+      </div>
+      <div class="learning-section">
+        <h3>理解题</h3>
+        <ol class="learning-list">${renderLearningList(comprehension)}</ol>
+      </div>
+      <div class="learning-section">
+        <h3>造句训练</h3>
+        <ol class="learning-list">${renderLearningList(drills)}</ol>
+      </div>
+      <div class="learning-section">
+        <h3>跟读句</h3>
+        <ol class="learning-list shadowing-list">${renderLearningList(shadowing)}</ol>
+      </div>
+    </div>
+  `;
+}
+
 function renderReadings() {
   if (bbcNewsLoading) {
     nodes.readingHint.textContent = "正在读取 BBC 头条";
@@ -1160,12 +1262,13 @@ function renderReadings() {
       (item) => `
         <article class="reading-item">
           <a class="reading-title" href="${escapeAttr(item.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
-          <span>${escapeHtml(item.summary)}</span>
+          <span class="source-summary">BBC 摘要：${escapeHtml(item.summary)}</span>
           <div class="reading-meta">
             <b>${escapeHtml(item.level)}</b>
             <b>BBC News</b>
             ${item.tags.map((tag) => `<b>${escapeHtml(tag)}</b>`).join("")}
           </div>
+          ${renderLearningPack(item)}
         </article>
       `,
     )
