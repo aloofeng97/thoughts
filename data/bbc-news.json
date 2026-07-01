@@ -2,7 +2,7 @@
   "meta": {
     "source": "BBC News Top Stories",
     "sourceUrl": "https://feeds.bbci.co.uk/news/rss.xml",
-    "updatedAt": "2026-07-01T13:33:09.708Z",
+    "updatedAt": "2026-07-01T13:38:37.467Z",
     "itemCount": 18
   },
   "items": [
@@ -213,7 +213,7 @@
       }
     },
     {
-      "title": "Judge 'wrong' to spare rapists jail, court told",
+      "title": "Judge 'wrong' to spare rapists custody, court told",
       "summary": "Three teenage boys convicted of rape should have been jailed, the Court of Appeal has heard.",
       "link": "https://www.bbc.co.uk/news/articles/clye2enp0lxo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Wed, 01 Jul 2026 13:17:02 GMT",
@@ -227,7 +227,7 @@
           "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a legal decision. Your first job is to find the actor, the action, and the result.",
           "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
           "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: court, convicted, rapists, teenage. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+          "For language practice, focus on these words: court, convicted, rapists, custody. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
         ],
         "vocabulary": [
           {
@@ -252,6 +252,13 @@
             "example": "In this story, \"rapists\" helps you follow the main issue and its possible result."
           },
           {
+            "word": "custody",
+            "zh": "拘留；监护",
+            "ja": "拘留；保護監督",
+            "note": "legal control or detention",
+            "example": "In this story, \"custody\" helps you follow the main issue and its possible result."
+          },
+          {
             "word": "teenage",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
@@ -271,13 +278,6 @@
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
             "example": "In this story, \"jailed\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "appeal",
-            "zh": "上诉；呼吁",
-            "ja": "控訴；訴え",
-            "note": "a formal request to review a decision",
-            "example": "In this story, \"appeal\" helps you follow the main issue and its possible result."
           }
         ],
         "grammar": [
