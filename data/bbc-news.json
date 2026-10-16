@@ -2,15 +2,322 @@
   "meta": {
     "source": "BBC News Top Stories",
     "sourceUrl": "https://feeds.bbci.co.uk/news/rss.xml",
-    "updatedAt": "2026-10-15T23:33:25.396Z",
+    "updatedAt": "2026-10-16T23:16:43.000Z",
     "itemCount": 18
   },
   "items": [
     {
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "link": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 15:45:10 GMT",
+      "level": "A2",
+      "tags": [
+        "BBC Top Stories"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: tensions, zelensky, brussels, ukraine. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "tensions",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"tensions\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "zelensky",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"zelensky\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "brussels",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"brussels\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "ukraine",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"ukraine\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "support",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"support\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "thanked",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"thanked\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "leaders",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"leaders\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
+          },
+          {
+            "name": "状语从句",
+            "pattern": "After/When/Because + clause, main clause",
+            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
+            "task": "写一句包含 when / because / after 的解释句。"
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a A2-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories",
+        "政治"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a political development. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: ukrainian, offensive, operation, territory. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "ukrainian",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"ukrainian\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "offensive",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"offensive\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "operation",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"operation\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "territory",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"territory\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "relations",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"relations\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "president",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"president\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "starlink",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"starlink\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
+          },
+          {
+            "name": "被动语态",
+            "pattern": "be + past participle",
+            "explanation": "被动语态把焦点放在受到影响的人或事，而不是动作执行者。",
+            "task": "用被动语态写一句：Someone or something was affected by ..."
+          },
+          {
+            "name": "状语从句",
+            "pattern": "After/When/Because + clause, main clause",
+            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
+            "task": "写一句包含 when / because / after 的解释句。"
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a B1-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
+      "summary": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 16:07:37 GMT",
+      "level": "B2",
+      "tags": [
+        "BBC Top Stories"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: stole, improvements, vulnerable, lifestyle. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "stole",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"stole\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "improvements",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"improvements\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "vulnerable",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"vulnerable\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "lifestyle",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"lifestyle\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "cosmetic",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"cosmetic\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "surgery",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"surgery\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "rebecca",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"rebecca\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
+          },
+          {
+            "name": "状语从句",
+            "pattern": "After/When/Because + clause, main clause",
+            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
+            "task": "写一句包含 when / because / after 的解释句。"
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "Man killed by tiger may have had medical records breached by NHS staff",
+      "summary": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 16:53:07 GMT",
       "level": "B1",
       "tags": [
         "BBC Top Stories",
@@ -18,60 +325,60 @@
       ],
       "learning": {
         "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a health issue. Your first job is to find the actor, the action, and the result.",
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
           "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
           "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: airlifted, officials, hospital, appeared. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+          "For language practice, focus on these words: yorkshire, doncaster, breached, wildlife. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
         ],
         "vocabulary": [
           {
-            "word": "airlifted",
+            "word": "yorkshire",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"airlifted\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"yorkshire\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "officials",
+            "word": "doncaster",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"officials\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"doncaster\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "hospital",
+            "word": "breached",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"hospital\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"breached\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "appeared",
+            "word": "wildlife",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"appeared\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"wildlife\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "stopped",
+            "word": "saturday",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"stopped\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"saturday\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "channel",
+            "word": "medical",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"channel\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"medical\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "injured",
+            "word": "records",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"injured\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"records\" helps you follow the main issue and its possible result."
           }
         ],
         "grammar": [
@@ -108,70 +415,367 @@
       }
     },
     {
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 17:47:22 GMT",
+      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
+      "summary": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 20:08:07 GMT",
       "level": "B2",
       "tags": [
         "BBC Top Stories"
       ],
       "learning": {
         "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a security development. Your first job is to find the actor, the action, and the result.",
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
           "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
           "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: execution, trump, livestream, attacker. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+          "For language practice, focus on these words: political, chris, mason, distinctly. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
         ],
         "vocabulary": [
           {
-            "word": "execution",
+            "word": "political",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"execution\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"political\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "trump",
+            "word": "chris",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"trump\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"chris\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "livestream",
+            "word": "mason",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"livestream\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"mason\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "attacker",
+            "word": "distinctly",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"attacker\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"distinctly\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "military",
+            "word": "conference",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"military\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"conference\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "killing",
+            "word": "scotland",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"killing\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"scotland\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "firing",
+            "word": "scottish",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"firing\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"scottish\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
+          },
+          {
+            "name": "状语从句",
+            "pattern": "After/When/Because + clause, main clause",
+            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
+            "task": "写一句包含 when / because / after 的解释句。"
+          },
+          {
+            "name": "介词短语作背景",
+            "pattern": "over/amid/during/following + noun phrase",
+            "explanation": "新闻英语常用介词短语快速补充争议、背景或时间线。",
+            "task": "用 amid / following / during 写一句新闻背景句。"
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "Watch: Did Tesla really just unveil a flying car?",
+      "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+      "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 12:32:31 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories",
+        "经济"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a business decision. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: tesla, showcased, facility, vehicle. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "tesla",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"tesla\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "showcased",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"showcased\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "facility",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"facility\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "vehicle",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"vehicle\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "company",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"company\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "develop",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"develop\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "really",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"really\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a B1-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "Police feared Andrew would delay search by saying King owned his home, documents show",
+      "summary": "Legal records have emerged which show why police wanted to search the royal's home and what they were looking for.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrk0gxlw2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 18:37:26 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories",
+        "法律"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: police, search, home, show. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "police",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"police\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "search",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"search\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "home",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"home\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "show",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"show\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "documents",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"documents\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "records",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"records\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "emerged",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"emerged\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a B1-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 14:31:04 GMT",
+      "level": "B2",
+      "tags": [
+        "BBC Top Stories",
+        "经济"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: palestinians, settlers, harvest, attack. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "palestinians",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"palestinians\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "settlers",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"settlers\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "harvest",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"harvest\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "attack",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"attack\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "journalist",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"journalist\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "incidents",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"incidents\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "injured",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"injured\" helps you follow the main issue and its possible result."
           }
         ],
         "grammar": [
@@ -208,71 +812,70 @@
       }
     },
     {
-      "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
-      "summary": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
-      "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 16:07:26 GMT",
-      "level": "B2",
+      "title": "Norwegian teen 'hitman' jailed over UK murder plot",
+      "summary": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 13:43:21 GMT",
+      "level": "A2",
       "tags": [
-        "BBC Top Stories",
-        "健康"
+        "BBC Top Stories"
       ],
       "learning": {
         "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a health issue. Your first job is to find the actor, the action, and the result.",
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
           "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
           "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: biological, hospital, should, trans. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+          "For language practice, focus on these words: norwegian, travelled, yorkshire, johannes. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
         ],
         "vocabulary": [
           {
-            "word": "biological",
+            "word": "norwegian",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"biological\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"norwegian\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "hospital",
+            "word": "travelled",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"hospital\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"travelled\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "should",
+            "word": "yorkshire",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"should\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"yorkshire\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "trans",
+            "word": "johannes",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"trans\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"johannes\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "according",
+            "word": "natland",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"according\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"natland\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "guidance",
+            "word": "hitman",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"guidance\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"hitman\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "patients",
+            "word": "jailed",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"patients\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"jailed\" helps you follow the main issue and its possible result."
           }
         ],
         "grammar": [
@@ -283,10 +886,10 @@
             "task": "把标题扩写成完整句：The BBC report says that ..."
           },
           {
-            "name": "被动语态",
-            "pattern": "be + past participle",
-            "explanation": "被动语态把焦点放在受到影响的人或事，而不是动作执行者。",
-            "task": "用被动语态写一句：Someone or something was affected by ..."
+            "name": "介词短语作背景",
+            "pattern": "over/amid/during/following + noun phrase",
+            "explanation": "新闻英语常用介词短语快速补充争议、背景或时间线。",
+            "task": "用 amid / following / during 写一句新闻背景句。"
           }
         ],
         "comprehension": [
@@ -299,7 +902,7 @@
           "Rewrite the headline as a complete sentence beginning with: The report says that ...",
           "Write one sentence explaining why the story matters, using because.",
           "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
+          "Make a A2-level summary in 35-50 English words without copying the BBC wording."
         ],
         "shadowing": [
           "The headline gives the main action, but the summary gives the context.",
@@ -309,10 +912,10 @@
       }
     },
     {
-      "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
-      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 16:35:05 GMT",
+      "title": "Woman says she was left 'bewildered and confused' by alleged Russell Brand assault",
+      "summary": "The 51-year-old faces three counts of rape, three of sexual assault and one of indecent assault, all of which he denies.",
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz6m1d2n6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 14:06:59 GMT",
       "level": "B1",
       "tags": [
         "BBC Top Stories"
@@ -322,7 +925,7 @@
           "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
           "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
           "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: assault, three, rape, indecent. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+          "For language practice, focus on these words: assault, three, bewildered, confused. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
         ],
         "vocabulary": [
           {
@@ -340,11 +943,18 @@
             "example": "In this story, \"three\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "rape",
+            "word": "bewildered",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"rape\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"bewildered\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "confused",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"confused\" helps you follow the main issue and its possible result."
           },
           {
             "word": "indecent",
@@ -354,25 +964,18 @@
             "example": "In this story, \"indecent\" helps you follow the main issue and its possible result."
           },
           {
+            "word": "alleged",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"alleged\" helps you follow the main issue and its possible result."
+          },
+          {
             "word": "russell",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
             "example": "In this story, \"russell\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "accuser",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"accuser\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "monster",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"monster\" helps you follow the main issue and its possible result."
           }
         ],
         "grammar": [
@@ -403,559 +1006,70 @@
       }
     },
     {
-      "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
-      "summary": "The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 20:24:32 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: like, engagement, nottingham, relaunch. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "like",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"like\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "engagement",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"engagement\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "nottingham",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"nottingham\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "relaunch",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"relaunch\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "anything",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"anything\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "duchess",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"duchess\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "several",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"several\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "Banks say Healey is planning Budget tax raid on their profits",
-      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 17:14:36 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories",
-        "经济"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: budget, executives, chancellor, planning. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "budget",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"budget\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "executives",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"executives\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "chancellor",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"chancellor\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "planning",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"planning\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "profits",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"profits\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "banking",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"banking\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "healey",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"healey\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
-      "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 15:00:05 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: neanderthal, thought, wound, year. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "neanderthal",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"neanderthal\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "thought",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"thought\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "wound",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"wound\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "year",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"year\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "life",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"life\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "than",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"than\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "suggests",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"suggests\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
-      "summary": "Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.",
-      "link": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 10:56:25 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a legal decision. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: research, cancer, brain, inoperable. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "research",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"research\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "cancer",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"cancer\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "brain",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"brain\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "inoperable",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"inoperable\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "investment",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"investment\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "emotional",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"emotional\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "diagnosed",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"diagnosed\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          },
-          {
-            "name": "被动语态",
-            "pattern": "be + past participle",
-            "explanation": "被动语态把焦点放在受到影响的人或事，而不是动作执行者。",
-            "task": "用被动语态写一句：Someone or something was affected by ..."
-          },
-          {
-            "name": "状语从句",
-            "pattern": "After/When/Because + clause, main clause",
-            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
-            "task": "写一句包含 when / because / after 的解释句。"
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "London housing project wins top architecture award",
-      "summary": "Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 20:36:32 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: architecture, surroundings, recognised, coulsdon. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "architecture",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"architecture\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "surroundings",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"surroundings\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "recognised",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"recognised\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "coulsdon",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"coulsdon\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "responds",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"responds\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "housing",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"housing\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "project",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"project\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          },
-          {
-            "name": "被动语态",
-            "pattern": "be + past participle",
-            "explanation": "被动语态把焦点放在受到影响的人或事，而不是动作执行者。",
-            "task": "用被动语态写一句：Someone or something was affected by ..."
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-      "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
-      "link": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 15:55:14 GMT",
+      "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
+      "summary": "The White House is facing growing adversity, writes the BBC's Anthony Zurcher, weeks before crucial midterm elections.",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 21:02:18 GMT",
       "level": "B1",
       "tags": [
         "BBC Top Stories"
       ],
       "learning": {
         "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a public concern. Your first job is to find the actor, the action, and the result.",
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
           "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
           "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: donaldson, abuse, sentenced, convicted. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+          "For language practice, focus on these words: whirlwind, adversity, elections, analysis. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
         ],
         "vocabulary": [
           {
-            "word": "donaldson",
+            "word": "whirlwind",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"donaldson\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"whirlwind\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "abuse",
+            "word": "adversity",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"abuse\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"adversity\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "sentenced",
+            "word": "elections",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"sentenced\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"elections\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "convicted",
+            "word": "analysis",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"convicted\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"analysis\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "including",
+            "word": "zacharia",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"including\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"zacharia\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "committed",
+            "word": "critical",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"committed\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"critical\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "children",
+            "word": "growing",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"children\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"growing\" helps you follow the main issue and its possible result."
           }
         ],
         "grammar": [
@@ -964,18 +1078,6 @@
             "pattern": "Noun phrase + strong verb + key result",
             "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
             "task": "把标题扩写成完整句：The BBC report says that ..."
-          },
-          {
-            "name": "被动语态",
-            "pattern": "be + past participle",
-            "explanation": "被动语态把焦点放在受到影响的人或事，而不是动作执行者。",
-            "task": "用被动语态写一句：Someone or something was affected by ..."
-          },
-          {
-            "name": "状语从句",
-            "pattern": "After/When/Because + clause, main clause",
-            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
-            "task": "写一句包含 when / because / after 的解释句。"
           }
         ],
         "comprehension": [
@@ -998,10 +1100,10 @@
       }
     },
     {
-      "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
-      "summary": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 16:00:26 GMT",
+      "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
+      "summary": "Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months",
+      "link": "https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 17:41:53 GMT",
       "level": "B1",
       "tags": [
         "BBC Top Stories"
@@ -1011,317 +1113,43 @@
           "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
           "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
           "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: climbed, inquest, fences, tiger. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+          "For language practice, focus on these words: recaptured, operation, frontline, territory. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
         ],
         "vocabulary": [
           {
-            "word": "climbed",
+            "word": "recaptured",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"climbed\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"recaptured\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "inquest",
+            "word": "operation",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"inquest\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"operation\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "fences",
+            "word": "frontline",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"fences\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"frontline\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "tiger",
+            "word": "territory",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"tiger\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"territory\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "hears",
+            "word": "follows",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"hears\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "suffering",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"suffering\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "yorkshire",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"yorkshire\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          },
-          {
-            "name": "被动语态",
-            "pattern": "be + past participle",
-            "explanation": "被动语态把焦点放在受到影响的人或事，而不是动作执行者。",
-            "task": "用被动语态写一句：Someone or something was affected by ..."
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B1-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "Professor shares 'most important thing to do' when someone is grieving",
-      "summary": "Dr Lesel Dawson, co-director of Good Grief Weston, says avoiding grief is not a good way to cope.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06xr871g1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 05:11:16 GMT",
-      "level": "B1",
-      "tags": [
-        "BBC Top Stories"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: grief, good, professor, important. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "grief",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"grief\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "good",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"good\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "professor",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"professor\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "important",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"important\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "grieving",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"grieving\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "director",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"director\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "avoiding",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"avoiding\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          },
-          {
-            "name": "状语从句",
-            "pattern": "After/When/Because + clause, main clause",
-            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
-            "task": "写一句包含 when / because / after 的解释句。"
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B1-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-      "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 05:00:23 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a security development. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: verify, investigations, identified, incidents. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "verify",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"verify\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "investigations",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"investigations\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "identified",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"identified\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "incidents",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"incidents\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "reviewing",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"reviewing\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "hundreds",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"hundreds\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "killings",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"killings\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          },
-          {
-            "name": "状语从句",
-            "pattern": "After/When/Because + clause, main clause",
-            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
-            "task": "写一句包含 when / because / after 的解释句。"
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-      "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
-      "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 17:31:37 GMT",
-      "level": "B1",
-      "tags": [
-        "BBC Top Stories",
-        "政治",
-        "国际"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a security development. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: starlink, ukraine, restriction, president. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "starlink",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"starlink\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"follows\" helps you follow the main issue and its possible result."
           },
           {
             "word": "ukraine",
@@ -1331,39 +1159,11 @@
             "example": "In this story, \"ukraine\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "restriction",
+            "word": "vivaldi",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"restriction\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "president",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"president\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "russia",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"russia\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "system",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"system\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "watch",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"watch\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"vivaldi\" helps you follow the main issue and its possible result."
           }
         ],
         "grammar": [
@@ -1394,10 +1194,10 @@
       }
     },
     {
-      "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-      "summary": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
-      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 15:42:37 GMT",
+      "title": "The Olympic sprinter now bedbound for 22 hours a day",
+      "summary": "Beth Dobbin ran for Great Britain at the Tokyo Olympics in 2021. Five years on, she is largely bedbound after being diagnosed with ME, a devastating illness for which there is no cure.",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/crd6dj26v4e4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 05:31:22 GMT",
       "level": "B1",
       "tags": [
         "BBC Top Stories"
@@ -1407,57 +1207,57 @@
           "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
           "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
           "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: hosepipe, drought, severe, declared. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+          "For language practice, focus on these words: bedbound, devastating, diagnosed, sprinter. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
         ],
         "vocabulary": [
           {
-            "word": "hosepipe",
+            "word": "bedbound",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"hosepipe\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"bedbound\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "drought",
+            "word": "devastating",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"drought\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"devastating\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "severe",
+            "word": "diagnosed",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"severe\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"diagnosed\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "declared",
+            "word": "sprinter",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"declared\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"sprinter\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "affected",
+            "word": "olympics",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"affected\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"olympics\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "southern",
+            "word": "olympic",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"southern\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"olympic\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "england",
+            "word": "britain",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"england\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"britain\" helps you follow the main issue and its possible result."
           }
         ],
         "grammar": [
@@ -1494,210 +1294,10 @@
       }
     },
     {
-      "title": "What we know about the criminal investigation into US congresswoman Ilhan Omar",
-      "summary": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship.",
-      "link": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 16:59:31 GMT",
-      "level": "C1",
-      "tags": [
-        "BBC Top Stories"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: investigation, congresswoman, citizenship, officials. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "investigation",
-            "zh": "调查",
-            "ja": "調査",
-            "note": "a careful search for facts",
-            "example": "In this story, \"investigation\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "congresswoman",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"congresswoman\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "citizenship",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"citizenship\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "officials",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"officials\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "criminal",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"criminal\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "unclear",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"unclear\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "nature",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"nature\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          },
-          {
-            "name": "状语从句",
-            "pattern": "After/When/Because + clause, main clause",
-            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
-            "task": "写一句包含 when / because / after 的解释句。"
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a C1-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "My son wants to try protein powders - I asked experts how safe it was",
-      "summary": "Are protein supplements recommended for pre-teens and teenagers or is a big, juicy steak just as good?",
-      "link": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 00:00:35 GMT",
-      "level": "B2",
-      "tags": [
-        "BBC Top Stories"
-      ],
-      "learning": {
-        "reading": [
-          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
-          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
-          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: protein, supplements, recommended, teenagers. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
-        ],
-        "vocabulary": [
-          {
-            "word": "protein",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"protein\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "supplements",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"supplements\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "recommended",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"recommended\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "teenagers",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"teenagers\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "powders",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"powders\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "experts",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"experts\" helps you follow the main issue and its possible result."
-          },
-          {
-            "word": "wants",
-            "zh": "结合新闻语境理解的关键词",
-            "ja": "ニュース文脈で理解する重要語",
-            "note": "a useful word for understanding this news item",
-            "example": "In this story, \"wants\" helps you follow the main issue and its possible result."
-          }
-        ],
-        "grammar": [
-          {
-            "name": "新闻标题压缩",
-            "pattern": "Noun phrase + strong verb + key result",
-            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
-            "task": "把标题扩写成完整句：The BBC report says that ..."
-          },
-          {
-            "name": "状语从句",
-            "pattern": "After/When/Because + clause, main clause",
-            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
-            "task": "写一句包含 when / because / after 的解释句。"
-          }
-        ],
-        "comprehension": [
-          "What is the main event in the headline?",
-          "Who or what is most affected by this development?",
-          "Which detail from the summary gives you useful context?",
-          "What is one question you still need the full BBC article to answer?"
-        ],
-        "drills": [
-          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
-          "Write one sentence explaining why the story matters, using because.",
-          "Write one neutral opinion sentence beginning with: This development may be important because ...",
-          "Make a B2-level summary in 35-50 English words without copying the BBC wording."
-        ],
-        "shadowing": [
-          "The headline gives the main action, but the summary gives the context.",
-          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
-          "After reading the original article, I will correct my summary with more precise facts."
-        ]
-      }
-    },
-    {
-      "title": "Everton's Thierno Barry on the emotional video he was scared to post",
-      "summary": "The Everton striker explains why he chose to post an emotional video from a training session.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 11:27:07 GMT",
+      "title": "Street Fighter movie is 'made by fans for fans' - but can it KO the critics?",
+      "summary": "Cast members Noah Centineo, Andrew Koji and Callina Liang discuss the latest video game adaptation.",
+      "link": "https://www.bbc.co.uk/news/articles/cj040z4ngnz1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 12:06:04 GMT",
       "level": "B1",
       "tags": [
         "BBC Top Stories"
@@ -1707,57 +1307,151 @@
           "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
           "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
           "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
-          "For language practice, focus on these words: emotional, everton, video, post. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+          "For language practice, focus on these words: fans, adaptation, centineo, fighter. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
         ],
         "vocabulary": [
           {
-            "word": "emotional",
+            "word": "fans",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"emotional\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"fans\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "everton",
+            "word": "adaptation",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"everton\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"adaptation\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "video",
+            "word": "centineo",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"video\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"centineo\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "post",
+            "word": "fighter",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"post\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"fighter\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "explains",
+            "word": "critics",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"explains\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"critics\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "training",
+            "word": "members",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"training\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"members\" helps you follow the main issue and its possible result."
           },
           {
-            "word": "thierno",
+            "word": "callina",
             "zh": "结合新闻语境理解的关键词",
             "ja": "ニュース文脈で理解する重要語",
             "note": "a useful word for understanding this news item",
-            "example": "In this story, \"thierno\" helps you follow the main issue and its possible result."
+            "example": "In this story, \"callina\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a B1-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "Collaboration with Off Campus star 'gave me chills', says Babydoll singer Jamie Miller",
+      "summary": "Jamie Miller hopes he's \"doing Wales proud\" as his viral hit narrowly misses out on UK number one.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yndllj8d8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 16:57:00 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: miller, jamie, collaboration, babydoll. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "miller",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"miller\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "jamie",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"jamie\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "collaboration",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"collaboration\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "babydoll",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"babydoll\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "narrowly",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"narrowly\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "campus",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"campus\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "chills",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"chills\" helps you follow the main issue and its possible result."
           }
         ],
         "grammar": [
@@ -1768,10 +1462,300 @@
             "task": "把标题扩写成完整句：The BBC report says that ..."
           },
           {
-            "name": "被动语态",
-            "pattern": "be + past participle",
-            "explanation": "被动语态把焦点放在受到影响的人或事，而不是动作执行者。",
-            "task": "用被动语态写一句：Someone or something was affected by ..."
+            "name": "状语从句",
+            "pattern": "After/When/Because + clause, main clause",
+            "explanation": "状语从句交代时间、原因或背景，主句给出核心结果。",
+            "task": "写一句包含 when / because / after 的解释句。"
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a B1-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "'People call them pervert glasses': Blind users fear backlash over smart tech",
+      "summary": "Concerns about the use of smart glasses are having an affect on visually-impaired users.",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6e56n85go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 05:23:00 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories",
+        "科技"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: glasses, users, smart, backlash. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "glasses",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"glasses\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "users",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"users\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "smart",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"smart\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "backlash",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"backlash\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "concerns",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"concerns\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "visually",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"visually\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "impaired",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"impaired\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
+          },
+          {
+            "name": "介词短语作背景",
+            "pattern": "over/amid/during/following + noun phrase",
+            "explanation": "新闻英语常用介词短语快速补充争议、背景或时间线。",
+            "task": "用 amid / following / during 写一句新闻背景句。"
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a B1-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "Your child wasn't invited to the party - here's how to handle the disappointment",
+      "summary": "This very common scenario can be sad for little ones but there are ways you can help them.",
+      "link": "https://www.bbc.co.uk/news/articles/cr86zjee80p9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 11:17:28 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: disappointment, scenario, invited, wasn't. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "disappointment",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"disappointment\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "scenario",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"scenario\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "invited",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"invited\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "wasn't",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"wasn't\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "handle",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"handle\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "common",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"common\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "little",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"little\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
+          }
+        ],
+        "comprehension": [
+          "What is the main event in the headline?",
+          "Who or what is most affected by this development?",
+          "Which detail from the summary gives you useful context?",
+          "What is one question you still need the full BBC article to answer?"
+        ],
+        "drills": [
+          "Rewrite the headline as a complete sentence beginning with: The report says that ...",
+          "Write one sentence explaining why the story matters, using because.",
+          "Write one neutral opinion sentence beginning with: This development may be important because ...",
+          "Make a B1-level summary in 35-50 English words without copying the BBC wording."
+        ],
+        "shadowing": [
+          "The headline gives the main action, but the summary gives the context.",
+          "I can understand this story better by asking who acted, who was affected, and what may happen next.",
+          "After reading the original article, I will correct my summary with more precise facts."
+        ]
+      }
+    },
+    {
+      "title": "Sign up now",
+      "summary": "From news and politics to technology and the royals, get the best BBC journalism to your inbox.",
+      "link": "https://www.bbc.co.uk/news/articles/c2lkky9zngvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 10:24:59 GMT",
+      "level": "B1",
+      "tags": [
+        "BBC Top Stories",
+        "科技"
+      ],
+      "learning": {
+        "reading": [
+          "This is a study version, not a copy of the BBC article. Use it as a longer training text before you open the original link. The news item is a current event. Your first job is to find the actor, the action, and the result.",
+          "The headline gives you a compressed version of the story. Slow it down and turn it into a full sentence. Ask yourself: Who is doing something? Who is affected? What changed? Which detail tells me why the story matters today?",
+          "Next, read the short source summary as the factual anchor. Do not try to memorize every word. Instead, build a mental map: background, main event, response, and possible next step. This makes the article easier to understand when you read the full BBC report.",
+          "For language practice, focus on these words: technology, journalism, politics, royals. Say them aloud, then use each one in your own sentence. Finally, write a three-sentence mini report: one sentence for the event, one for the context, and one for the possible consequence."
+        ],
+        "vocabulary": [
+          {
+            "word": "technology",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"technology\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "journalism",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"journalism\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "politics",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"politics\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "royals",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"royals\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "inbox",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"inbox\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "sign",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"sign\" helps you follow the main issue and its possible result."
+          },
+          {
+            "word": "news",
+            "zh": "结合新闻语境理解的关键词",
+            "ja": "ニュース文脈で理解する重要語",
+            "note": "a useful word for understanding this news item",
+            "example": "In this story, \"news\" helps you follow the main issue and its possible result."
+          }
+        ],
+        "grammar": [
+          {
+            "name": "新闻标题压缩",
+            "pattern": "Noun phrase + strong verb + key result",
+            "explanation": "英语新闻标题常省略冠词和部分助动词，用较短结构塞进人物、动作和结果。",
+            "task": "把标题扩写成完整句：The BBC report says that ..."
           }
         ],
         "comprehension": [
